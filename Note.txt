@@ -1,0 +1,10 @@
+        GLOBAL VARIABLES.
+    This are Varibles you would be needing and you can call up at anytime... some include console.log, setTimeout and setInterval.
+
+        MODULES.
+    These are pieces of code that can be called up in other files for use, every file in JS is a module by default.
+    These files are encapsulated so this means we only ge to share the minimum.
+
+        REQUIRE.
+    This is used to call up a file that has been exported from anther module.
+        
